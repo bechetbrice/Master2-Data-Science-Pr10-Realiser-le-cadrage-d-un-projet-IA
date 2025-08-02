@@ -1,4 +1,4 @@
-# Master2-Data-Science-Pr10-Realiser-le-cadrage-d-un-projet-IA
+# Master2 Data Science Pr10 Realiser le cadrage d'un projet IA
 
 Formation Expert en Data Science - OpenClassRoom - Juillet 2025
 
